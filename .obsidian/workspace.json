@@ -11,10 +11,14 @@
             "id": "feb15452c484e232",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Class10th/Mathematics/Circles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Circles"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Class10th/Mathematics/Circles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Class10th/Mathematics/Circles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Class10th/Mathematics/Circles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,23 +190,26 @@
   },
   "active": "feb15452c484e232",
   "lastOpenFiles": [
+    "Class10th/Mathematics/Coordinate Geometry.md",
+    "Class10th/Science/Chemistry/Chemical Reactions and Equations.md",
+    "Class10th/Quick Revision/Important Definitions.md",
+    "Class10th/Quick Revision/Science Formulas.md",
+    "Class10th/Mathematics/Real Numbers.md",
+    "Class10th/Mathematics/Mathematics.md",
+    "Class10th/Update-Science-Remaining.ps1",
+    "Class10th/Update-Science-Notes.ps1",
     "Class10th/Quick Revision/Maths Formulas.md",
     "Class10th/Quick Revision/Important Maps.md",
-    "Class10th/Quick Revision/Important Definitions.md",
     "Class10th/Quick Revision/Important Dates.md",
     "Class10th/Quick Revision/Common Mistakes.md",
-    "Class10th/Quick Revision/Science Formulas.md",
     "Class10th/Mathematics/Triangles.md",
     "Class10th/Mathematics/Surface Areas and Volumes.md",
     "Class10th/Mathematics/Statistics.md",
     "Class10th/Mathematics/Some Applications of Trigonometry.md",
-    "Class10th/Mathematics/Real Numbers.md",
     "Class10th/Mathematics/Quadratic Equations.md",
     "Class10th/Mathematics/Probability.md",
     "Class10th/Mathematics/Polynomials.md",
     "Class10th/Mathematics/Pair of Linear Equations in Two Variables.md",
-    "Class10th/Mathematics/Mathematics.md",
-    "Class10th/Mathematics/Coordinate Geometry.md",
     "Class10th/Mathematics/Introduction to Trigonometry.md",
     "Class10th/Mathematics/Circles.md",
     "Class10th/Mathematics/Arithmetic Progressions.md",
@@ -208,7 +218,6 @@
     "Class10th/Science/Biology/How do Organisms Reproduce.md",
     "Class10th/Science/Biology/Heredity.md",
     "Class10th/Science/Biology/Control and Coordination.md",
-    "Class10th/Hindi/Vyakaran/अलंकार.md",
     "Class10th/Create-Class10th-Structure.ps1",
     "Class10th/Quick Revision",
     "Class10th/Hindi/Vyakaran",
@@ -216,8 +225,6 @@
     "Class10th/Hindi/Kritika",
     "Class10th/Hindi",
     "Class10th/English/Grammar",
-    "Class10th/English/Footprints Without Feet",
-    "Class10th/English/First Flight",
-    "Class10th/English"
+    "Class10th/English/Footprints Without Feet"
   ]
 }
