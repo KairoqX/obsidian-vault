@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "8870ef1be0caed8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa6a11e508ec899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb15452c484e232",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bcef49e8db759ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe63daa4e66201e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50d24fb56532834d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ceabb9f805974c43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d99b72674218ce4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f327c9b7a2489d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2e6d0fe37528087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16aacc3696400160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "966dc7f2279bdedc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "751a7cf036a89a04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7005502aaa46e197",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3b6faae63770fc62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "feb15452c484e232",
+  "lastOpenFiles": [
+    "Class10th/Quick Revision/Maths Formulas.md",
+    "Class10th/Quick Revision/Important Maps.md",
+    "Class10th/Quick Revision/Important Definitions.md",
+    "Class10th/Quick Revision/Important Dates.md",
+    "Class10th/Quick Revision/Common Mistakes.md",
+    "Class10th/Quick Revision/Science Formulas.md",
+    "Class10th/Mathematics/Triangles.md",
+    "Class10th/Mathematics/Surface Areas and Volumes.md",
+    "Class10th/Mathematics/Statistics.md",
+    "Class10th/Mathematics/Some Applications of Trigonometry.md",
+    "Class10th/Mathematics/Real Numbers.md",
+    "Class10th/Mathematics/Quadratic Equations.md",
+    "Class10th/Mathematics/Probability.md",
+    "Class10th/Mathematics/Polynomials.md",
+    "Class10th/Mathematics/Pair of Linear Equations in Two Variables.md",
+    "Class10th/Mathematics/Mathematics.md",
+    "Class10th/Mathematics/Coordinate Geometry.md",
+    "Class10th/Mathematics/Introduction to Trigonometry.md",
+    "Class10th/Mathematics/Circles.md",
+    "Class10th/Mathematics/Arithmetic Progressions.md",
+    "Class10th/Mathematics/Areas Related to Circles.md",
+    "Class10th/Science/Biology/Life Processes.md",
+    "Class10th/Science/Biology/How do Organisms Reproduce.md",
+    "Class10th/Science/Biology/Heredity.md",
+    "Class10th/Science/Biology/Control and Coordination.md",
+    "Class10th/Hindi/Vyakaran/अलंकार.md",
+    "Class10th/Create-Class10th-Structure.ps1",
+    "Class10th/Quick Revision",
+    "Class10th/Hindi/Vyakaran",
+    "Class10th/Hindi/Kshitij",
+    "Class10th/Hindi/Kritika",
+    "Class10th/Hindi",
+    "Class10th/English/Grammar",
+    "Class10th/English/Footprints Without Feet",
+    "Class10th/English/First Flight",
+    "Class10th/English"
+  ]
+}
